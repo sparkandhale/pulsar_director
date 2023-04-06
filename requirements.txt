@@ -1,0 +1,13 @@
+uvicorn[standard]
+#hypercorn
+fastapi
+asyncio
+pyyaml
+python-dateutil
+websockets
+pytest
+#C:/Users/braya/Documents/apps/freyaalpha/fa-models
+fa-models
+pulsar-client[avro]
+# fastavro is already in pulsar-client
+# fastavro

@@ -1,0 +1,11 @@
+application : Pulsar Director
+developer : Brayan Svan
+
+########## Environment #########
+env: prod
+
+# Pulsar Broker Service URL
+pulsar_broker_service_url: pulsar://localhost:6650
+
+# Logging
+logging_level: DEBUG
